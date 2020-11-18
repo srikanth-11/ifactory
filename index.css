@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+.full{
+    background-color:black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 3105px;
+    padding:30px;
+    position: relative;       
+    }
+.next{
+    border-top-left-radius:25px;
+    border-top-right-radius: 25px;
+    color: white;
+    border-style: dotted;
+    height: 3105px;
+    text-align: center;
+    
+}
+.page {
+    position:relative;
+    top:-45px;
+    
+}
+.ot::first-letter {
+     font-size:500%;
+     font-family: "Cedarville Cursive", cursive;
+}
+.ot{
+    text-align: center;
+    position: relative;
+    top:-70px;
+}
+.long {
+    text-align:center;
+    position: relative;
+    top:-80px;
+}
+.let{
+    background-color: pink;
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-50px;
+}
+.oi {
+    text-align:center;
+    color:black;
+    position:relative;
+    top:-50px;
+}
+.oi::first-letter {
+    font-size:500%;
+    font-family: "Cedarville Cursive", cursive;
+}
+.ol {
+    text-align:center;
+    color:black;
+    position:relative;
+    top:-150px;
+}
+.long{
+    position: relative;
+    top:-150px;
+}
+.sh {
+    text-align:center;
+    color:black;
+    position:relative;
+    top:-150px;
+}
+.tel {
+    background-color:rgb(209, 18, 50);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-71px;
+}
+.it{
+    background-color: rgb(70, 13, 163);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-93px;
+}
+.pm {
+    background-color: rgb(20, 156, 88);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-115px;
+}
+.cm {
+    background-color: rgb(146, 11, 112);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-137px;
+}
+.dm {
+    background-color: rgb(160, 161, 95);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-159px;
+}
+.am {
+    background-color: rgb(80, 134, 165);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-181px;
+}
+.em {
+    background-color: rgb(155, 145, 152);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-203px;
+}
+    .tm {
+    background-color:rgb(72, 14, 138);
+    color: pink;
+    border: pink;
+    height:300px;
+    position: relative;
+    top:-225px;
+    }
+    .are {
+        text-align:left;
+        font-size: large;
+    }
+    .ret {
+        text-align:right;
+    }
+
+
+
+
+
